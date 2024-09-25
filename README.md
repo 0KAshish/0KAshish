@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0KAshish
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html css javascript phpand mysql
+- 🌱 I’m currently learning HTML, CSS, javaScript, ReactJs, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
