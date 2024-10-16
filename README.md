@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, javaScript, ReactJs, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- here is linkedin profile -- linkedin.com/in/ashish-kumar-maurya-99626516b
 
 <!---
 0KAshish/0KAshish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
