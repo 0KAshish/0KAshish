@@ -1,13 +1,51 @@
-- 👋 Hi, I’m @0KAshish
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, javaScript, ReactJs, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Ashish Kumar Maurya
+
+### 💻 Web Developer | React & Next.js Enthusiast | Lifelong Learner
+
+I'm a passionate and detail-oriented Web Developer currently interning at **Innoblooms IT Services Pvt Ltd**, where I'm working on real-world projects using **React JS**, **Next.js**, and **Material-UI (MUI)**. I have 1.5 years of experience as a Computer Operator and have built a strong foundation in frontend development and UI/UX design.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries:** React JS, Next.js, Material-UI (MUI), Bootstrap, jQuery
+- **Tools:** Microsoft Office Suite, Video Editing Tools
+- **Operating Systems:** Windows, Unix
+
+---
+
+## 📚 Education
+- **CTI (Computer Software Application)** – NSTI Ludhiana (2020) – 83%
+- **ITI (COPA)** – Government ITI, Unchahar Raebareli (2019) – 87.66%
+- **Intermediate** – Ram Anjor Mishra Inter College, Pratapgarh (2017) – 75.60%
+- **High School** – Puneet Higher Secondary School, Pratapgarh (2015) – 87.17%
+
+---
+
+## 🧑‍💼 Work Experience
+- **Web Development Intern** – Innoblooms IT Services Pvt Ltd (Dec 2024 – Present)  
+  - Building responsive and scalable web interfaces using React JS, Next.js, and MUI  
+  - Collaborating with the team to improve user experience and frontend architecture
+
+- **Computer Operator** – Panchsheel P.G. College, Raebareli (1.5 Years)  
+  - Handled office operations and provided tech support using Microsoft Office tools
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: ashishsam.ceh1997@gmail.com
+<!---- 📱 Mobile: 7068019008 --->
+- 📍 Location: Rae Bareli, Uttar Pradesh, India
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/okashish)
 - 🐦 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://www.x.com/001Ashishkumar)
 
-- ## 📌 My Learning Path
-- [![roadmap.sh](https://roadmap.sh/card/wide/6779702170129741a848c473?variant=dark)](https://roadmap.sh)
+## 📈 GitHub Stats
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=0KAshish&show_icons=true&theme=radical)
+
+---
+
+## 📌 My Learning Path
+[![roadmap.sh](https://roadmap.sh/card/wide/6779702170129741a848c473?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 
 <!---
 0KAshish/0KAshish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
