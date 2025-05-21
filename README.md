@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - here is linkedin profile -- linkedin.com/in/ashish-kumar-maurya-99626516b
+- ## 📌 My Learning Path
+- [![roadmap.sh](https://roadmap.sh/card/tall/6779702170129741a848c473?variant=dark)](https://roadmap.sh)
 
 <!---
 0KAshish/0KAshish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
