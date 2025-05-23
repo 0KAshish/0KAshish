@@ -50,6 +50,7 @@ I'm a passionate and detail-oriented Web Developer currently working at **Innobl
 ---
 
 ## 📌 My Learning Path
+<!---<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6779702170129741a848c473?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>--->
 [![roadmap.sh](https://roadmap.sh/card/wide/6779702170129741a848c473?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 
 <!---
