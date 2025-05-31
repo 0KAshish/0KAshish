@@ -51,7 +51,7 @@ I'm a passionate and detail-oriented **self-taught Web Developer** currently wor
 
 ## 📌 My Learning Path
 <!---<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6779702170129741a848c473?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>--->
-[![roadmap.sh](https://roadmap.sh/card/wide/6779702170129741a848c473?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6779702170129741a848c473?variant=dark&roadmaps=computer-science%2Ccpp%2Cfrontend)](https://roadmap.sh)
 
 <!---
 0KAshish/0KAshish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
