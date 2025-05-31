@@ -2,7 +2,7 @@
 
 ### 💻 Web Developer | React & Next.js Enthusiast | Lifelong Learner
 
-I'm a passionate and detail-oriented Web Developer currently working at **Innoblooms IT Services Pvt Ltd**, where I'm working on real-world projects using **React JS**, **Next.js**, and **Material-UI (MUI)**. I have 1.5 years of experience as a Computer Operator and have built a strong foundation in frontend development and UI/UX design.
+I'm a passionate and detail-oriented **self-taught Web Developer** currently working at **Innoblooms IT Services Pvt Ltd**, where I'm involved in real-world projects using **React JS**, **Next.js**, and **Material-UI (MUI)**. With 1.5 years of experience as a Computer Operator, I've built a strong foundation in frontend development and UI/UX design.
 
 ---
 
