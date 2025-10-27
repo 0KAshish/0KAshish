@@ -36,7 +36,7 @@ I'm a passionate and detail-oriented **self-taught Web Developer** currently wor
 - 📧 Email: ashishsam.ceh1997@gmail.com
 <!---- 📱 Mobile: 7068019008 --->
 - 📍 Location: Rae Bareli, Uttar Pradesh, India
-- <a href="https://www.linkedin.com/in/okashish" target="_blank">
+- <a href="https://www.linkedin.com/in/0kashish" target="_blank">
     <img src="https://img.shields.io/badge/🔗-LinkedIn-0a0a0a.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 - <a href="https://www.x.com/001Ashishkumar" target="_blank">
